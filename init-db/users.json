@@ -1,0 +1,298 @@
+[{
+  "_id": {
+    "$oid": "64505459c823cc20e9d50fef"
+  },
+  "name": "Simon",
+  "userName": "Simon",
+  "email": "simon@test.de",
+  "passwordHash": "$2b$10$0vm3NgxGQs4bZWm1TO4cSOQ/ky2axSWGkDe4Pg99UEYBQUXR3BiMu",
+  "role": "Designer, Frontend Engineer",
+  "comments": [
+    {
+      "$oid": "6491ae9b54b33c08a40e61d5"
+    },
+    {
+      "$oid": "6491ae9f54b33c08a40e62d8"
+    },
+    {
+      "$oid": "6491eda281b3620002669f70"
+    },
+    {
+      "$oid": "64a8471db25a61baf1205b53"
+    },
+    {
+      "$oid": "64a848adb25a61baf1205ff9"
+    },
+    {
+      "$oid": "64a85086b25a61baf12094fa"
+    },
+    {
+      "$oid": "64a8508db25a61baf12095e5"
+    }
+  ],
+  "documents": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6450571a075ac31b02212608"
+  },
+  "name": "Nico",
+  "userName": "Nico",
+  "email": "nico@test.de",
+  "passwordHash": "$2b$10$0vm3NgxGQs4bZWm1TO4cSOQ/ky2axSWGkDe4Pg99UEYBQUXR3BiMu",
+  "role": "Frontend Engineer, Backend Engineer",
+  "comments": [
+    {
+      "$oid": "6491cbeb34f937acbcaab63a"
+    },
+    {
+      "$oid": "6491cc0b34f937acbcaabe39"
+    },
+    {
+      "$oid": "6491cc1d34f937acbcaac092"
+    },
+    {
+      "$oid": "6491cc2334f937acbcaac1f0"
+    },
+    {
+      "$oid": "6491cc2a34f937acbcaac3b0"
+    },
+    {
+      "$oid": "6491cc3034f937acbcaac46c"
+    },
+    {
+      "$oid": "6491cc3534f937acbcaac5c5"
+    },
+    {
+      "$oid": "6491cc3834f937acbcaac665"
+    },
+    {
+      "$oid": "6491d2805709485b292cb610"
+    },
+    {
+      "$oid": "6491d2875709485b292cb6b5"
+    },
+    {
+      "$oid": "6491d2945709485b292cb7d1"
+    },
+    {
+      "$oid": "6491d2985709485b292cb851"
+    },
+    {
+      "$oid": "6491e3367ff247dd11007f92"
+    },
+    {
+      "$oid": "6491e3397ff247dd11007faf"
+    },
+    {
+      "$oid": "6491e33b7ff247dd11007fdd"
+    },
+    {
+      "$oid": "6492008b7ff247dd1100a515"
+    },
+    {
+      "$oid": "649200907ff247dd1100a552"
+    },
+    {
+      "$oid": "6492009c7ff247dd1100a655"
+    },
+    {
+      "$oid": "649202077ff247dd1100aa12"
+    },
+    {
+      "$oid": "649210e0b0a8b8053dd223b1"
+    },
+    {
+      "$oid": "649210ebb0a8b8053dd224f3"
+    },
+    {
+      "$oid": "649210eeb0a8b8053dd2252d"
+    },
+    {
+      "$oid": "649212e7583474087e7d9200"
+    },
+    {
+      "$oid": "649212f1583474087e7d924d"
+    },
+    {
+      "$oid": "6492155121915335d8db49b7"
+    },
+    {
+      "$oid": "6492178e21915335d8db5142"
+    },
+    {
+      "$oid": "64931385b7792342a6c86f03"
+    },
+    {
+      "$oid": "6493138ab7792342a6c86f26"
+    },
+    {
+      "$oid": "64931396b7792342a6c86f49"
+    },
+    {
+      "$oid": "6493215ac91367cf2b41ba1f"
+    },
+    {
+      "$oid": "649321d64c646217f4ff194a"
+    },
+    {
+      "$oid": "649322534c646217f4ff1980"
+    },
+    {
+      "$oid": "649322b037611e46e4a6619b"
+    },
+    {
+      "$oid": "6493233537611e46e4a661c7"
+    },
+    {
+      "$oid": "649324c2e99c1f14a9fa43a7"
+    },
+    {
+      "$oid": "64a3270c03ff85b5c506ec29"
+    },
+    {
+      "$oid": "64a327bc03ff85b5c506f5b0"
+    },
+    {
+      "$oid": "64a41eb6018219214b36b105"
+    },
+    {
+      "$oid": "64a41ebb018219214b36b14d"
+    },
+    {
+      "$oid": "64a43123348d1adb4b5c3fe6"
+    },
+    {
+      "$oid": "64a43129348d1adb4b5c401d"
+    },
+    {
+      "$oid": "64a4316e348d1adb4b5c42f9"
+    },
+    {
+      "$oid": "64a43289348d1adb4b5c4ac3"
+    },
+    {
+      "$oid": "64a4328b348d1adb4b5c4af9"
+    },
+    {
+      "$oid": "64a432d74857c76f50d36a71"
+    },
+    {
+      "$oid": "64a432da4857c76f50d36ab7"
+    },
+    {
+      "$oid": "64a4355006cdb7d8a76c6284"
+    },
+    {
+      "$oid": "64a4355406cdb7d8a76c62c0"
+    },
+    {
+      "$oid": "64a448cab3dfaed5ce42317b"
+    },
+    {
+      "$oid": "64a45e31b3dfaed5ce42439a"
+    },
+    {
+      "$oid": "64a45e33b3dfaed5ce4243d5"
+    },
+    {
+      "$oid": "64a8461cb25a61baf1205059"
+    },
+    {
+      "$oid": "64a84855b25a61baf1205e0f"
+    },
+    {
+      "$oid": "64a84ea7b25a61baf1206606"
+    },
+    {
+      "$oid": "64a84ef2b25a61baf1206cbc"
+    },
+    {
+      "$oid": "64a84f22b25a61baf12071f9"
+    },
+    {
+      "$oid": "64a84f54b25a61baf12076d4"
+    },
+    {
+      "$oid": "64a84f88b25a61baf1207dd0"
+    },
+    {
+      "$oid": "64a84fdeb25a61baf12086ce"
+    },
+    {
+      "$oid": "64a85008b25a61baf1208cc1"
+    },
+    {
+      "$oid": "64a85025b25a61baf1208f80"
+    }
+  ],
+  "documents": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6491ad6b9758a1b82d6d534f"
+  },
+  "name": "Flo",
+  "userName": "Flo",
+  "email": "flo@test.de",
+  "passwordHash": "$2b$10$0vm3NgxGQs4bZWm1TO4cSOQ/ky2axSWGkDe4Pg99UEYBQUXR3BiMu",
+  "role": "Frontend Engineer, Backend Engineer",
+  "comments": [
+    {
+      "$oid": "6491ae9e54b33c08a40e626a"
+    },
+    {
+      "$oid": "6491aeae54b33c08a40e66da"
+    },
+    {
+      "$oid": "6491f37475e16d869724555c"
+    },
+    {
+      "$oid": "64a84689b25a61baf120537c"
+    },
+    {
+      "$oid": "64a846e5b25a61baf1205953"
+    },
+    {
+      "$oid": "64a848e0b25a61baf1206134"
+    },
+    {
+      "$oid": "64a84ed1b25a61baf12067b6"
+    },
+    {
+      "$oid": "64a84ee4b25a61baf1206a75"
+    },
+    {
+      "$oid": "64a84f14b25a61baf120711a"
+    },
+    {
+      "$oid": "64a84f49b25a61baf1207596"
+    },
+    {
+      "$oid": "64a84fc1b25a61baf1208409"
+    },
+    {
+      "$oid": "64a84ff7b25a61baf1208aef"
+    },
+    {
+      "$oid": "64a85016b25a61baf1208def"
+    },
+    {
+      "$oid": "64a85035b25a61baf120911e"
+    }
+  ],
+  "documents": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6491adb19758a1b82d6d5350"
+  },
+  "name": "Korbinian",
+  "userName": "Kobi",
+  "email": "kobi@test.de",
+  "passwordHash": "$2b$10$0vm3NgxGQs4bZWm1TO4cSOQ/ky2axSWGkDe4Pg99UEYBQUXR3BiMu",
+  "role": "Lecturer",
+  "comments": [],
+  "documents": [],
+  "__v": 0
+}]

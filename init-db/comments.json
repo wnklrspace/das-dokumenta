@@ -1,0 +1,501 @@
+[{
+  "_id": {
+    "$oid": "64a8461cb25a61baf1205059"
+  },
+  "resolved": false,
+  "timesEdited": 0,
+  "left": "88.9232835731147",
+  "top": "77.07224508655389",
+  "className": "right",
+  "content": "That looks legit!",
+  "createdAt": {
+    "$date": "2023-07-07T17:06:36.316Z"
+  },
+  "createdBy": {
+    "$oid": "6450571a075ac31b02212608"
+  },
+  "document": {
+    "$oid": "64a845fdb25a61baf1204fe7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a84689b25a61baf120537c"
+  },
+  "resolved": false,
+  "timesEdited": 0,
+  "left": "28.465679676985197",
+  "top": "34.6958174904943",
+  "className": "left",
+  "content": "The stroke is barely visible ;(",
+  "createdAt": {
+    "$date": "2023-07-07T17:08:25.959Z"
+  },
+  "createdBy": {
+    "$oid": "6491ad6b9758a1b82d6d534f"
+  },
+  "document": {
+    "$oid": "64a845fdb25a61baf1204fe7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a846e5b25a61baf1205953"
+  },
+  "resolved": true,
+  "timesEdited": 0,
+  "left": "12.314939434724092",
+  "top": "78.65019098434158",
+  "className": "left",
+  "content": "Please change that to a \"0\"",
+  "createdAt": {
+    "$date": "2023-07-07T17:09:57.606Z"
+  },
+  "createdBy": {
+    "$oid": "6491ad6b9758a1b82d6d534f"
+  },
+  "document": {
+    "$oid": "64a845fdb25a61baf1204fe7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a8471db25a61baf1205b53"
+  },
+  "resolved": false,
+  "timesEdited": 0,
+  "left": "28.465679676985197",
+  "top": "85.01901082666201",
+  "className": "left",
+  "content": "Signatures always seem highly important, nice touch!",
+  "createdAt": {
+    "$date": "2023-07-07T17:10:53.153Z"
+  },
+  "createdBy": {
+    "$oid": "64505459c823cc20e9d50fef"
+  },
+  "document": {
+    "$oid": "64a845fdb25a61baf1204fe7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a84855b25a61baf1205e0f"
+  },
+  "resolved": false,
+  "timesEdited": 0,
+  "left": "81.38627146005952",
+  "top": "4.433999216607912",
+  "className": "right",
+  "content": "Seit wann schreibt sich die HdM in Caps?",
+  "createdAt": {
+    "$date": "2023-07-07T17:16:05.334Z"
+  },
+  "createdBy": {
+    "$oid": "6450571a075ac31b02212608"
+  },
+  "document": {
+    "$oid": "64a847fbb25a61baf1205c46"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a848adb25a61baf1205ff9"
+  },
+  "resolved": false,
+  "timesEdited": 0,
+  "left": "28.465679676985197",
+  "top": "26.547591451845868",
+  "className": "left",
+  "content": "Das Grau is ein wenig grün für meinen Geschmack.",
+  "createdAt": {
+    "$date": "2023-07-07T17:17:33.060Z"
+  },
+  "createdBy": {
+    "$oid": "64505459c823cc20e9d50fef"
+  },
+  "document": {
+    "$oid": "64a847fbb25a61baf1205c46"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a848e0b25a61baf1206134"
+  },
+  "resolved": true,
+  "timesEdited": 0,
+  "left": "63.5935397039031",
+  "top": "38.90325107716412",
+  "className": "right",
+  "content": "Wahnsinn! Bin inspiriert!",
+  "createdAt": {
+    "$date": "2023-07-07T17:18:24.735Z"
+  },
+  "createdBy": {
+    "$oid": "6491ad6b9758a1b82d6d534f"
+  },
+  "document": {
+    "$oid": "64a847fbb25a61baf1205c46"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a84ea7b25a61baf1206606"
+  },
+  "resolved": true,
+  "timesEdited": 0,
+  "left": "32.95698883712932",
+  "top": "39.06844106463878",
+  "className": "left",
+  "content": "X",
+  "createdAt": {
+    "$date": "2023-07-07T17:43:03.403Z"
+  },
+  "createdBy": {
+    "$oid": "6450571a075ac31b02212608"
+  },
+  "document": {
+    "$oid": "64a84e91b25a61baf12064e8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a84ed1b25a61baf12067b6"
+  },
+  "resolved": true,
+  "timesEdited": 0,
+  "left": "49.32795698924731",
+  "top": "27.661596958174904",
+  "className": "left",
+  "content": "O",
+  "createdAt": {
+    "$date": "2023-07-07T17:43:45.079Z"
+  },
+  "createdBy": {
+    "$oid": "6491ad6b9758a1b82d6d534f"
+  },
+  "document": {
+    "$oid": "64a84e91b25a61baf12064e8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a84ee4b25a61baf1206a75"
+  },
+  "resolved": true,
+  "timesEdited": 0,
+  "left": "65.7258064516129",
+  "top": "38.97338403041825",
+  "className": "right",
+  "content": "O",
+  "createdAt": {
+    "$date": "2023-07-07T17:44:04.370Z"
+  },
+  "createdBy": {
+    "$oid": "6491ad6b9758a1b82d6d534f"
+  },
+  "document": {
+    "$oid": "64a84e91b25a61baf12064e8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a84ef2b25a61baf1206cbc"
+  },
+  "resolved": false,
+  "timesEdited": 0,
+  "left": "33.494623245731475",
+  "top": "15.98859286580249",
+  "className": "left",
+  "content": "X",
+  "createdAt": {
+    "$date": "2023-07-07T17:44:18.709Z"
+  },
+  "createdBy": {
+    "$oid": "6450571a075ac31b02212608"
+  },
+  "document": {
+    "$oid": "64a84e91b25a61baf12064e8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a84f14b25a61baf120711a"
+  },
+  "resolved": true,
+  "timesEdited": 0,
+  "left": "32.93010752688172",
+  "top": "26.711026615969583",
+  "className": "left",
+  "content": "O",
+  "createdAt": {
+    "$date": "2023-07-07T17:44:52.865Z"
+  },
+  "createdBy": {
+    "$oid": "6491ad6b9758a1b82d6d534f"
+  },
+  "document": {
+    "$oid": "64a84e91b25a61baf12064e8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a84f22b25a61baf12071f9"
+  },
+  "resolved": true,
+  "timesEdited": 0,
+  "left": "66.8279565790648",
+  "top": "27.11026586960477",
+  "className": "right",
+  "content": "X",
+  "createdAt": {
+    "$date": "2023-07-07T17:45:06.161Z"
+  },
+  "createdBy": {
+    "$oid": "6450571a075ac31b02212608"
+  },
+  "document": {
+    "$oid": "64a84e91b25a61baf12064e8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a84f49b25a61baf1207596"
+  },
+  "resolved": true,
+  "timesEdited": 0,
+  "left": "49.46236559139785",
+  "top": "37.0722433460076",
+  "className": "left",
+  "content": "O",
+  "createdAt": {
+    "$date": "2023-07-07T17:45:45.171Z"
+  },
+  "createdBy": {
+    "$oid": "6491ad6b9758a1b82d6d534f"
+  },
+  "document": {
+    "$oid": "64a84e91b25a61baf12064e8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a84f54b25a61baf12076d4"
+  },
+  "resolved": false,
+  "timesEdited": 0,
+  "left": "49.623655503795995",
+  "top": "15.323193626258764",
+  "className": "left",
+  "content": "X",
+  "createdAt": {
+    "$date": "2023-07-07T17:45:56.080Z"
+  },
+  "createdBy": {
+    "$oid": "6450571a075ac31b02212608"
+  },
+  "document": {
+    "$oid": "64a84e91b25a61baf12064e8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a84f88b25a61baf1207dd0"
+  },
+  "resolved": false,
+  "timesEdited": 0,
+  "left": "67.36559098766696",
+  "top": "15.893535831581957",
+  "className": "right",
+  "content": "X",
+  "createdAt": {
+    "$date": "2023-07-07T17:46:48.357Z"
+  },
+  "createdBy": {
+    "$oid": "6450571a075ac31b02212608"
+  },
+  "document": {
+    "$oid": "64a84e91b25a61baf12064e8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a84fc1b25a61baf1208409"
+  },
+  "resolved": false,
+  "timesEdited": 0,
+  "left": "49.46236559139785",
+  "top": "71.6159704520222",
+  "className": "left",
+  "content": "X",
+  "createdAt": {
+    "$date": "2023-07-07T17:47:45.794Z"
+  },
+  "createdBy": {
+    "$oid": "6491ad6b9758a1b82d6d534f"
+  },
+  "document": {
+    "$oid": "64a84e91b25a61baf12064e8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a84fdeb25a61baf12086ce"
+  },
+  "resolved": true,
+  "timesEdited": 0,
+  "left": "32.95698883712932",
+  "top": "83.82129451621168",
+  "className": "left",
+  "content": "O",
+  "createdAt": {
+    "$date": "2023-07-07T17:48:14.436Z"
+  },
+  "createdBy": {
+    "$oid": "6450571a075ac31b02212608"
+  },
+  "document": {
+    "$oid": "64a84e91b25a61baf12064e8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a84ff7b25a61baf1208aef"
+  },
+  "resolved": true,
+  "timesEdited": 0,
+  "left": "67.33870967741936",
+  "top": "71.80608307000801",
+  "className": "right",
+  "content": "X",
+  "createdAt": {
+    "$date": "2023-07-07T17:48:39.113Z"
+  },
+  "createdBy": {
+    "$oid": "6491ad6b9758a1b82d6d534f"
+  },
+  "document": {
+    "$oid": "64a84e91b25a61baf12064e8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a85008b25a61baf1208cc1"
+  },
+  "resolved": true,
+  "timesEdited": 0,
+  "left": "33.62903184788201",
+  "top": "72.22433634130674",
+  "className": "left",
+  "content": "O",
+  "createdAt": {
+    "$date": "2023-07-07T17:48:56.271Z"
+  },
+  "createdBy": {
+    "$oid": "6450571a075ac31b02212608"
+  },
+  "document": {
+    "$oid": "64a84e91b25a61baf12064e8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a85016b25a61baf1208def"
+  },
+  "resolved": false,
+  "timesEdited": 0,
+  "left": "32.39247311827957",
+  "top": "61.1596952373084",
+  "className": "left",
+  "content": "X",
+  "createdAt": {
+    "$date": "2023-07-07T17:49:10.267Z"
+  },
+  "createdBy": {
+    "$oid": "6491ad6b9758a1b82d6d534f"
+  },
+  "document": {
+    "$oid": "64a84e91b25a61baf12064e8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a85025b25a61baf1208f80"
+  },
+  "resolved": true,
+  "timesEdited": 0,
+  "left": "50.161289912398146",
+  "top": "83.15589527666795",
+  "className": "right",
+  "content": "O",
+  "createdAt": {
+    "$date": "2023-07-07T17:49:25.067Z"
+  },
+  "createdBy": {
+    "$oid": "6450571a075ac31b02212608"
+  },
+  "document": {
+    "$oid": "64a84e91b25a61baf12064e8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a85035b25a61baf120911e"
+  },
+  "resolved": false,
+  "timesEdited": 0,
+  "left": "66.39784946236558",
+  "top": "83.65019011406844",
+  "className": "right",
+  "content": "X",
+  "createdAt": {
+    "$date": "2023-07-07T17:49:41.435Z"
+  },
+  "createdBy": {
+    "$oid": "6491ad6b9758a1b82d6d534f"
+  },
+  "document": {
+    "$oid": "64a84e91b25a61baf12064e8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a85086b25a61baf12094fa"
+  },
+  "resolved": false,
+  "timesEdited": 0,
+  "left": "83.2258060414304",
+  "top": "26.711026615969583",
+  "className": "right",
+  "content": "1:0",
+  "createdAt": {
+    "$date": "2023-07-07T17:51:02.242Z"
+  },
+  "createdBy": {
+    "$oid": "64505459c823cc20e9d50fef"
+  },
+  "document": {
+    "$oid": "64a84e91b25a61baf12064e8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a8508db25a61baf12095e5"
+  },
+  "resolved": false,
+  "timesEdited": 0,
+  "left": "83.09139743927986",
+  "top": "72.7946770961747",
+  "className": "right",
+  "content": "1:1",
+  "createdAt": {
+    "$date": "2023-07-07T17:51:09.936Z"
+  },
+  "createdBy": {
+    "$oid": "64505459c823cc20e9d50fef"
+  },
+  "document": {
+    "$oid": "64a84e91b25a61baf12064e8"
+  },
+  "__v": 0
+}]

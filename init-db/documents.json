@@ -1,0 +1,139 @@
+[{
+  "_id": {
+    "$oid": "64a845fdb25a61baf1204fe7"
+  },
+  "title": "Wise Words",
+  "slug": "wise-words",
+  "createdAt": {
+    "$date": "2023-07-07T17:06:05.572Z"
+  },
+  "filePath": "/pdf-docs/wise-words.pdf",
+  "createdBy": {
+    "$oid": "6450571a075ac31b02212608"
+  },
+  "comments": [
+    {
+      "$oid": "64a8461cb25a61baf1205059"
+    },
+    {
+      "$oid": "64a84689b25a61baf120537c"
+    },
+    {
+      "$oid": "64a846e5b25a61baf1205953"
+    },
+    {
+      "$oid": "64a8471db25a61baf1205b53"
+    }
+  ],
+  "availableTo": [
+    {
+      "$oid": "6450571a075ac31b02212608"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a847fbb25a61baf1205c46"
+  },
+  "title": "HdM Styleguide",
+  "slug": "hdm-styleguide",
+  "createdAt": {
+    "$date": "2023-07-07T17:14:35.718Z"
+  },
+  "filePath": "/pdf-docs/hdm-styleguide.pdf",
+  "createdBy": {
+    "$oid": "6450571a075ac31b02212608"
+  },
+  "comments": [
+    {
+      "$oid": "64a84855b25a61baf1205e0f"
+    },
+    {
+      "$oid": "64a848adb25a61baf1205ff9"
+    },
+    {
+      "$oid": "64a848e0b25a61baf1206134"
+    }
+  ],
+  "availableTo": [
+    {
+      "$oid": "6450571a075ac31b02212608"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a84e91b25a61baf12064e8"
+  },
+  "title": "Tic Tac Toe",
+  "slug": "tic-tac-toe",
+  "createdAt": {
+    "$date": "2023-07-07T17:42:41.291Z"
+  },
+  "filePath": "/pdf-docs/tic-tac-toe.pdf",
+  "createdBy": {
+    "$oid": "6450571a075ac31b02212608"
+  },
+  "comments": [
+    {
+      "$oid": "64a84ea7b25a61baf1206606"
+    },
+    {
+      "$oid": "64a84ed1b25a61baf12067b6"
+    },
+    {
+      "$oid": "64a84ee4b25a61baf1206a75"
+    },
+    {
+      "$oid": "64a84ef2b25a61baf1206cbc"
+    },
+    {
+      "$oid": "64a84f14b25a61baf120711a"
+    },
+    {
+      "$oid": "64a84f22b25a61baf12071f9"
+    },
+    {
+      "$oid": "64a84f49b25a61baf1207596"
+    },
+    {
+      "$oid": "64a84f54b25a61baf12076d4"
+    },
+    {
+      "$oid": "64a84f88b25a61baf1207dd0"
+    },
+    {
+      "$oid": "64a84fc1b25a61baf1208409"
+    },
+    {
+      "$oid": "64a84fdeb25a61baf12086ce"
+    },
+    {
+      "$oid": "64a84ff7b25a61baf1208aef"
+    },
+    {
+      "$oid": "64a85008b25a61baf1208cc1"
+    },
+    {
+      "$oid": "64a85016b25a61baf1208def"
+    },
+    {
+      "$oid": "64a85025b25a61baf1208f80"
+    },
+    {
+      "$oid": "64a85035b25a61baf120911e"
+    },
+    {
+      "$oid": "64a85086b25a61baf12094fa"
+    },
+    {
+      "$oid": "64a8508db25a61baf12095e5"
+    }
+  ],
+  "availableTo": [
+    {
+      "$oid": "6450571a075ac31b02212608"
+    }
+  ],
+  "__v": 0
+}]

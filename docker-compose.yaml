@@ -1,0 +1,53 @@
+version: "3.8"
+services:
+  backend:
+    build: ./backend
+    container_name: backend_cnt
+    ports:
+      - '4000:4000'
+    volumes:
+      - pdf-docs:/app/pdf-docs
+    networks:
+      - dokumenta-net
+    depends_on:
+      - database-seed
+
+  frontend:
+    build: ./frontend
+    container_name: frontend_cnt
+    stdin_open: true
+    ports:
+      - '3000:3000'
+    networks:
+      - dokumenta-net
+    depends_on:
+      - backend
+
+  database:
+    image: mongo:5.0
+    ports:
+      - '27017:27017'
+    networks:
+      - dokumenta-net
+    volumes:
+      - db-data:/data/db
+
+  database-seed:
+    build:
+      context: ./init-db
+      args:
+        - DATABASE_URI=mongodb://database:27017/dokumenta
+    container_name: db-seed_cnt
+    networks:
+      - dokumenta-net
+    depends_on:
+      - database
+
+
+networks:
+  dokumenta-net:
+      driver: bridge
+
+volumes:
+  db-data:
+  pdf-docs:
