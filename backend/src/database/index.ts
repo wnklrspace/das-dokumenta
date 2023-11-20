@@ -1,6 +1,6 @@
 const mongoose = require('mongoose')
 
-export const MongoUri = 'mongodb+srv://flo:z5kvEn6gxVOGYKHG@bloomcluster.d3d8oqr.mongodb.net/'
+export const MongoUri = 'mongodb://database:27017/dokumenta'
 
 const connectDB = () => {
   mongoose
